@@ -1,0 +1,1 @@
+# cordova-touch-swipe-plugin
